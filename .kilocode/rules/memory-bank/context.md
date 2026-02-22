@@ -15,6 +15,7 @@ The template is a clean Next.js 16 starter with TypeScript and Tailwind CSS 4. I
 - [x] Memory bank documentation
 - [x] Recipe system for common features
 - [x] Created modern landing page website with hero, features, about, and footer sections
+- [x] Updated website to Uzbek language
 
 ## Current Structure
 
@@ -87,3 +88,4 @@ export async function GET() {
 |------|---------|
 | Initial | Template created with base setup |
 | 2026-02-22 | Created modern landing page website with hero, features, about, and footer sections |
+| 2026-02-22 | Updated website to Uzbek language |
