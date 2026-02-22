@@ -16,7 +16,10 @@ The template is a clean Next.js 16 starter with TypeScript and Tailwind CSS 4. I
 - [x] Recipe system for common features
 - [x] Created modern landing page website with hero, features, about, and footer sections
 - [x] Updated website to Uzbek language
-- [x] Created complete accounting system with login (Admin/Admin1), dashboard, kassa, and Excel export
+- [x] Created complete accounting system with login, dashboard, kassa, and Excel export
+- [x] Fixed button double-click issue (added loading states)
+- [x] Updated branding from "Menga Bugalteriya" to "A.S-Mebel Bugalteriya"
+- [x] Improved design with lucide-react icons and polished UI
 
 ## Current Structure
 
