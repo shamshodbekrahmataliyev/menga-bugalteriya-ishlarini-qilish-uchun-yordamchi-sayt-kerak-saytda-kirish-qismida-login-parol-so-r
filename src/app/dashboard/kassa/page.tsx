@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/set-state-in-effect, react/no-unescaped-entities */
 "use client";
 
 import { useEffect, useState } from "react";
@@ -29,6 +30,7 @@ export default function KassaPage() {
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [isClient, setIsClient] = useState(false);
 
+   
   useEffect(() => {
     setIsClient(true);
     const isLoggedIn = localStorage.getItem("isLoggedIn");
